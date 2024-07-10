@@ -23,8 +23,8 @@ export default function ContactUs() {
                                 <h3 className="text-2xl font-extrabold text-dark-grey-900 font-display">
                                     Email
                                 </h3>
-                                <a className="text-lg font-bold text-purple-500" href="mailto: hello@loopple.com">
-                                    hello@loopple.com
+                                <a className="text-lg font-bold text-purple-500" href="mailto: kedhas.work@gmail.com">
+                                    kedhas.work@gmail.com
                                 </a>
                             </div>
                             <div className="flex flex-col items-center gap-3 text-center md:text-start md:items-start">
@@ -37,8 +37,8 @@ export default function ContactUs() {
                                 <h3 className="text-2xl font-extrabold text-dark-grey-900 font-display">
                                     Phone
                                 </h3>
-                                <a className="text-lg font-bold text-purple-500" href="tel:+516-486-5135">
-                                    +516-486-5135
+                                <a className="text-lg font-bold text-purple-500" href="tel:+571-252-9784">
+                                    +571-252-9784
                                 </a>
                             </div>
                             <div className="flex flex-col items-center gap-3 text-center md:text-start md:items-start">
@@ -52,7 +52,7 @@ export default function ContactUs() {
                                     Location
                                 </h3>
                                 <a className="text-lg font-bold text-purple-500" target="_blank" href="https://goo.gl/maps/QcWzYETAh4FS3KTD7">
-                                    San Francisco, CA 10924
+                                    Virginia, United States
                                 </a>
                             </div>
                             <div className="flex flex-col items-center gap-3 text-center md:text-start md:items-start">

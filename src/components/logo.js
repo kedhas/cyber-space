@@ -1,7 +1,8 @@
+import logo from '../assets/images/logo.png'
 export default function Logo() {
     return (
         <div>
-            <span className="text-xl"><b><span className="text-purple-500">Purple</span>Transit</b></span>
-        </div>
+            <img src={logo.src} width={100} height={50} alt='Purple Transit'></img>
+        </div >
     )
 }

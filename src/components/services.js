@@ -3,7 +3,7 @@ export default function Services() {
         <div id="services" className="container mx-auto draggable">
             <div className="flex flex-col items-center justify-center h-full">
                 <div className="flex flex-col items-center justify-center mt-12">
-                    <h2 className="mb-4 text-3xl font-extrabold leading-tight text-center lg:text-4xl text-dark-grey-900">
+                    <h2 className="mb-4 text-2xl font-extrabold leading-tight text-center lg:text-4xl text-dark-grey-900">
                         Elevate Your Productivity with Motion
                     </h2>
                     <p className="text-lg text-center lg:w-7/12 text-grey-700">

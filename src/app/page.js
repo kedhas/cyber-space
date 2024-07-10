@@ -17,7 +17,7 @@ export default function App() {
                 <div className="container flex flex-col items-center gap-16 mx-auto my-32">
                     <div className="flex flex-col gap-16">
                         <div className="flex flex-col gap-2 text-center">
-                            <h2 className="text-3xl font-extrabold leading-tight lg:text-4xl text-dark-grey-900">
+                            <h2 className="text-2xl font-extrabold leading-tight lg:text-4xl text-dark-grey-900">
                                 How Motion works?
                             </h2>
                             <p className="text-base font-medium leading-7 text-dark-grey-600">
@@ -106,10 +106,10 @@ export default function App() {
                 <div className="grid items-center justify-center w-full lg:h-full grid-cols-1 my-auto lg:grid-cols-2 my-16">
                     <div className="flex flex-col col-span-1 text-center lg:text-start text-dark-grey-900 mb-7">
                         <h3 className="text-4xl font-extrabold leading-tight">
-                            Join Us
+                            Book your ride now!
                         </h3>
                         <h3 className="text-4xl font-medium leading-tight">
-                            Transform your website visitors into satisfied clients.
+                            Let us be your carrier provider with greate care.
                         </h3>
                     </div>
                     <div className="flex items-center justify-center col-span-1 lg:justify-end">
